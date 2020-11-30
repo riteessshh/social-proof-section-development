@@ -1,10 +1,21 @@
 body {
   font-family: 'Spartan', sans-serif;
   font-size: 15px;
-  overflow-x: hidden;
-  overflow-y: hidden;
+  /* overflow-x: hidden;
+  overflow-y: hidden; */
+  /* background-color: black; */
 }
 
+.bg-top {
+  position: absolute;
+  top: 0;
+}
+
+.bg-bot {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
 /* info */
 
 .info {
@@ -23,7 +34,7 @@ body {
 .content {
   margin-left: 65px;
   margin-top: 10px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 
 /* rating */
