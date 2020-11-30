@@ -24,7 +24,6 @@ body {
   margin-left: 65px;
   margin-top: 10px;
   font-weight: lighter;
-  /* color: hsl(300, 24%, 96%); */
 }
 
 /* rating */
@@ -39,23 +38,23 @@ body {
   position: absolute;
   top: 70px;
   background-color: hsl(300, 24%, 96%);
-  padding: 10px;
+  padding: 15px 0 15px 25px;
 }
 .rate2 {
   width: 70%;
   position: absolute;
-  top: 120px;
+  top: 130px;
   left: 50px;
   background-color: hsl(300, 24%, 96%);
-  padding: 10px;
+  padding: 15px 0 15px 25px;
 }
 .rate3 {
   width: 70%;
   position: absolute;
-  top: 170px;
+  top: 190px;
   left: 100px;
   background-color: hsl(300, 24%, 96%);
-  padding: 10px;
+  padding: 15px 0 15px 25px;
 }
 /* reviews */
 .reviews {
