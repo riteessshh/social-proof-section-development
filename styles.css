@@ -19,9 +19,10 @@ body {
 /* info */
 
 .info {
-  width: 35%;
+  width: 40%;
   position: absolute;
   top: 7%;
+  line-height: 1.2;
 }
 
 .heading {
