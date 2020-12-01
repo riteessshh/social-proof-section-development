@@ -1,0 +1,55 @@
+.imt {
+  margin: 4%;
+}
+.info{
+  /* display: block; */
+  /* width: 40%; */
+  padding: 10px;
+  /* margin: 10px; */
+}
+.heading {
+  color: hsl(300, 43%, 22%);
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.rate1 {
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  margin: 20px auto 10px 0;
+  padding: 10px;
+  width: 75%;
+
+}
+.rate2 {
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  margin: 10px auto 10px 25px;
+  padding: 10px;
+  width: 75%;
+}
+.rate3 {
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  margin: 10px auto 10px 50px;
+  padding: 10px;
+  width: 75%;
+}
+
+.reviews {
+  background-color: hsl(300, 43%, 22%);
+  color: #fff;
+  /* margin: 10px; */
+  padding: 10px;
+  /* width: 35%; */
+  border-radius: 3%;
+}
+
+.cnt {
+  padding: 5%;
+}
+/* .r2 {
+  margin: 10px;
+  width: 30%
+
+} */
